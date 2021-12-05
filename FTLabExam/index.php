@@ -14,6 +14,7 @@
 <button type="button" onclick="getEmp()">Search</button>
 <h3>Search Results: </h3>
 <p id="result"></p>
+    
 
 <script src="js/script.js"></script>
 </body>
